@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c6ced24-b312-4211-ac52-1395ac055d75" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/col_type.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/dataframe.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/dataframe.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/my_program.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/simple_node.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/simple_node.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/task2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/task3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/task4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/task4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/task5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/code/utils.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/task1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.md" beforeDir="false" afterPath="$PROJECT_DIR$/task1.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2z2N4WF7K1wS8mdfhUUtU4WSpxR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.task2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/maay00002_7068890/assignment4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.task3.cpp">
+    <configuration name="Unnamed (1)" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/test_files/task2.input1.txt" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assignment4" TARGET_NAME="task2.cpp" CONFIG_NAME="task2.cpp">
+      <option name="sourceFile" value="code\task2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="&quot;$USER_HOME$/Downloads/Assignment_4_Material (1)/assignment4/test_files/task3.input.txt&quot;" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assignment4" TARGET_NAME="task3.cpp" CONFIG_NAME="task3.cpp">
+      <option name="sourceFile" value="code\task3.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assignment4" TARGET_NAME="task4.cpp" CONFIG_NAME="task4.cpp">
+      <option name="sourceFile" value="code\task4.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/test_files/task5.input1.txt" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assignment4" TARGET_NAME="task5.cpp" CONFIG_NAME="task5.cpp">
+      <option name="sourceFile" value="code\task5.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.task5.cpp" />
+      <item itemvalue="C/C++ File.task3.cpp" />
+      <item itemvalue="C/C++ File.task4.cpp" />
+      <item itemvalue="C/C++ File.task2.cpp" />
+      <item itemvalue="CMake Application.task3" />
+      <item itemvalue="CMake Application.Unnamed" />
+      <item itemvalue="CMake Application.Unnamed (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.task3.cpp" />
+        <item itemvalue="C/C++ File.task5.cpp" />
+        <item itemvalue="C/C++ File.task4.cpp" />
+        <item itemvalue="C/C++ File.task2.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c6ced24-b312-4211-ac52-1395ac055d75" name="Changes" comment="" />
+      <created>1750925026111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750925026111</updated>
+      <workItem from="1750925037295" duration="4780000" />
+      <workItem from="1751105546305" duration="3711000" />
+      <workItem from="1751220234248" duration="35832000" />
+      <workItem from="1751629326534" duration="478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
